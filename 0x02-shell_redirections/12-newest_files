@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -newest file | sort n-r
+grep -newest file | sort n-r | head -n 10
