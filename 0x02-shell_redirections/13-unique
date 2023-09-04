@@ -1,2 +1,2 @@
 #!/bin/bash
-sotr list | uniq -u 
+sotr | uniq -u 
